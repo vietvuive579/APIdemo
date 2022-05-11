@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'APIdemo.wsgi.application'
 DATABASES = {
     'default': {
       'ENGINE':'django.db.backends.postgresql_psycopg2',
-      'NAME':'APIdemo',
+      'NAME':'APIdemo2',
       'USER':'postgres',
       'PASSWORD':'NHViet579',
       'HOST':'localhost',
