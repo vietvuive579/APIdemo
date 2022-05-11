@@ -1,2 +1,2 @@
 # APIdemo
-![Alt text](https://drive.google.com/file/d/1kcpW2aWM5dymwH-RwAAIEEnkfsKKfB3h/view?usp=sharing "Optional title")
+![Alt text](https://github.com/vietvuive579/APIdemo/blob/main/imageDemo/postman.PNG)
